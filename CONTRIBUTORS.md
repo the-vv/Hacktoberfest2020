@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [Vishnu Vinod](https://github.com/the-vv)
+ - Place: Thodupuzha, Kerala, India
+ - Bio: BCA Student
+ - GitHub: [the-vv](https://github.com/the-vv)
